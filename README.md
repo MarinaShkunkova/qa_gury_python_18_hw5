@@ -1,0 +1,1 @@
+# qa_gury_python_18_hw5
